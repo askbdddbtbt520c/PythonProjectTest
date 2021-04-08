@@ -1,5 +1,4 @@
 print("Hellow World!!!");
 print("Hellow World!!!");
 print("Hellow World!!!");
-print("Hellow World!!!");
-prin("Hellow World!!!");
+print("测试正确格式jenkins");
